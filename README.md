@@ -16,6 +16,17 @@ Do refer to the documentation for:
 - Get started
 - Previous versions
 
+# Acknowledging authorship #
+In the academic spirit of collaboration, the source code should be appropriately acknowledged in the resulting scientific disseminations.  
+You may cite it as follows: 
+- [1], for general reference to the EnergyScope project and the EnergyScope modeling framework  	
+- [2], for reference to the origins of the EnergyScope project or to the first online version of the calculator energyscope.ch 	
+- [3], for reference to the energyscope MILP modeling framework 	
+- [4], for reference to the current code 	
+
+You are welcome to report any bugs related to the code by reporting an issue:
+
+ moret.stefano@gmail.com or gauthierLimpens@gmail.com  
 
 # References:  #  
 [1] G. Limpens, S . Moret, H. Jeanmart, F. Maréchal (2019). EnergyScope TD: a novel open-source model for regional energy systems and its application to the case of Switzerland. https://doi.org/10.1016/j.apenergy.2019.113729	
