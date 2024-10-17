@@ -9,11 +9,11 @@
 'GWP_limit': 10;
 
 # Relative path from main directory to energyscope subdirectories and files
-'data_dir': '2020'  # Folders containing the csv data files
-'es_path': 'energyscope/energy_model'  # Path to the energy model (.mod and .run files)
+'data_dir': 'data'  # Folders containing the csv data files
+'es_path': 'my_energyscope/energy_model'  # Path to the energy model (.mod and .run files)
 'cs_path': 'case_studies' # Path to the directory containing the different case studies
 'case_studies': 'case_studies' # Path to the directory containing the different case studies
-'step1_path': 'energyscope/preprocessing/td_selection' # Path to the step1 selection of typical days
+'step1_path': 'my_energyscope/preprocessing/td_selection' # Path to the step1 selection of typical days
 
 # Printing input files for optimisation model
 # Writing the data in ETSD_data.dat file for the optimisation problem
@@ -39,5 +39,4 @@ printing_td: True
 
 # PRINTING more detailed outputs
 'print_hourly_data': True
-'print_hourly_yearly_data': False
 'print_sankey': False
