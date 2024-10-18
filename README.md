@@ -5,9 +5,11 @@
 # Content and documentation#
 This folder contains the first release of the EnergyScope model adapted to the French case.   
 More recent releases are available @ the EnergyScope project repository: https://github.com/energyscope/EnergyScope   
-This version of the model is an extension of the one in [4].  
+This version of the model is the one used in [5].  
 The data and formulation are available here:
 	https://energyscope.readthedocs.io/en/latest/
+ More info are available here :
+ 	https://library.energyscope.ch/main/ 
 
 Do refer to the documentation for:
 - Model formulation
